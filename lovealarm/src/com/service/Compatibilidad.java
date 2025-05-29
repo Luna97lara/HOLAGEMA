@@ -1,3 +1,5 @@
+
+
 package com.service;
 import com.domain.AtributosFisicos;
 import com.domain.AtributosPersonalidad;
