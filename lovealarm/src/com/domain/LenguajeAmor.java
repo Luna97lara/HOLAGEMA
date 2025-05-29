@@ -1,0 +1,5 @@
+package com.domain;
+
+public enum LenguajeAmor {
+    PALABRAS_AFIRMACION, TIEMPO_CALIDAD, REGALOS, ACTOS_SERVICIO, CONTACTO_FISICO
+}
